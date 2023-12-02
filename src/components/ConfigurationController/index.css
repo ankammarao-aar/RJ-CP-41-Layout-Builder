@@ -1,0 +1,20 @@
+.controller-container {
+  background-color: #475569;
+  padding: 14px;
+  padding-left: 52px;
+  padding-right: 52px;
+}
+
+.controller-heading {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  font-size: 28px;
+  margin-top: 0px;
+}
+
+.label {
+  font-family: 'Roboto';
+  font-size: 12px;
+  color: #f1f5f9;
+  margin-left: 8px;
+}
